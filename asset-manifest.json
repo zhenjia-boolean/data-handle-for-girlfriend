@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.c82fa903.chunk.css",
-    "main.js": "./static/js/main.dd84c379.chunk.js",
-    "main.js.map": "./static/js/main.dd84c379.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.673723db.js",
-    "runtime-main.js.map": "./static/js/runtime-main.673723db.js.map",
-    "static/css/2.cd846464.chunk.css": "./static/css/2.cd846464.chunk.css",
-    "static/js/2.2db7179d.chunk.js": "./static/js/2.2db7179d.chunk.js",
-    "static/js/2.2db7179d.chunk.js.map": "./static/js/2.2db7179d.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.49e1a49e47f3aadf9ec1bb6ea146dafa.js": "./precache-manifest.49e1a49e47f3aadf9ec1bb6ea146dafa.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.cd846464.chunk.css.map": "./static/css/2.cd846464.chunk.css.map",
-    "static/css/main.c82fa903.chunk.css.map": "./static/css/main.c82fa903.chunk.css.map",
-    "static/js/2.2db7179d.chunk.js.LICENSE.txt": "./static/js/2.2db7179d.chunk.js.LICENSE.txt"
+    "main.css": "/data-handle-for-girlfriend/static/css/main.c82fa903.chunk.css",
+    "main.js": "/data-handle-for-girlfriend/static/js/main.bcd14842.chunk.js",
+    "main.js.map": "/data-handle-for-girlfriend/static/js/main.bcd14842.chunk.js.map",
+    "runtime-main.js": "/data-handle-for-girlfriend/static/js/runtime-main.7fd197a6.js",
+    "runtime-main.js.map": "/data-handle-for-girlfriend/static/js/runtime-main.7fd197a6.js.map",
+    "static/css/2.cd846464.chunk.css": "/data-handle-for-girlfriend/static/css/2.cd846464.chunk.css",
+    "static/js/2.2db7179d.chunk.js": "/data-handle-for-girlfriend/static/js/2.2db7179d.chunk.js",
+    "static/js/2.2db7179d.chunk.js.map": "/data-handle-for-girlfriend/static/js/2.2db7179d.chunk.js.map",
+    "index.html": "/data-handle-for-girlfriend/index.html",
+    "precache-manifest.9007192d029c22168fd149c0d23501cd.js": "/data-handle-for-girlfriend/precache-manifest.9007192d029c22168fd149c0d23501cd.js",
+    "service-worker.js": "/data-handle-for-girlfriend/service-worker.js",
+    "static/css/2.cd846464.chunk.css.map": "/data-handle-for-girlfriend/static/css/2.cd846464.chunk.css.map",
+    "static/css/main.c82fa903.chunk.css.map": "/data-handle-for-girlfriend/static/css/main.c82fa903.chunk.css.map",
+    "static/js/2.2db7179d.chunk.js.LICENSE.txt": "/data-handle-for-girlfriend/static/js/2.2db7179d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.673723db.js",
+    "static/js/runtime-main.7fd197a6.js",
     "static/css/2.cd846464.chunk.css",
     "static/js/2.2db7179d.chunk.js",
     "static/css/main.c82fa903.chunk.css",
-    "static/js/main.dd84c379.chunk.js"
+    "static/js/main.bcd14842.chunk.js"
   ]
 }
