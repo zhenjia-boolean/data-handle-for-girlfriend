@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fed79f9bb4ef1eec216a05ba84dc736b",
+    "revision": "d894195c219c1defcf8ef567387027b8",
     "url": "/data-handle-for-girlfriend/index.html"
   },
   {
-    "revision": "4f1374798f0d46340c14",
+    "revision": "063ff9f0e78f283cff44",
     "url": "/data-handle-for-girlfriend/static/css/2.cd846464.chunk.css"
   },
   {
-    "revision": "ba0dcd32e2fc83432813",
+    "revision": "f11a5f05834596719874",
     "url": "/data-handle-for-girlfriend/static/css/main.c82fa903.chunk.css"
   },
   {
-    "revision": "4f1374798f0d46340c14",
-    "url": "/data-handle-for-girlfriend/static/js/2.2db7179d.chunk.js"
+    "revision": "063ff9f0e78f283cff44",
+    "url": "/data-handle-for-girlfriend/static/js/2.b0d33310.chunk.js"
   },
   {
     "revision": "3d669e94f91837166de5dcb402c232d1",
-    "url": "/data-handle-for-girlfriend/static/js/2.2db7179d.chunk.js.LICENSE.txt"
+    "url": "/data-handle-for-girlfriend/static/js/2.b0d33310.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ba0dcd32e2fc83432813",
-    "url": "/data-handle-for-girlfriend/static/js/main.bcd14842.chunk.js"
+    "revision": "f11a5f05834596719874",
+    "url": "/data-handle-for-girlfriend/static/js/main.e2e78e2e.chunk.js"
   },
   {
     "revision": "e3ac459d3c54bd5b1ae2",
